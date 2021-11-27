@@ -1,0 +1,9 @@
+﻿  iota.c
+C:\Users\Audrey\source\repos\Chpt3\Chpt3\iota.c(14,9): warning C4013: 'reverse' undefined; assuming extern returning int
+  main.c
+C:\Users\Audrey\source\repos\Chpt3\Chpt3\main.c(24,19): warning C4013: 'binSearch' undefined; assuming extern returning int
+C:\Users\Audrey\source\repos\Chpt3\Chpt3\main.c(28,15): warning C4013: 'atoi' undefined; assuming extern returning int
+C:\Users\Audrey\source\repos\Chpt3\Chpt3\main.c(30,14): warning C4013: 'itoa' undefined; assuming extern returning int
+  Generating Code...
+iota.obj : error LNK2019: unresolved external symbol _reverse referenced in function _itoa
+C:\Users\Audrey\source\repos\Chpt3\Debug\Chpt3.exe : fatal error LNK1120: 1 unresolved externals
