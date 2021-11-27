@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Audrey\source\repos\CChpt2\CChpt2\main.c(7,15): warning C4013: 'lower' undefined; assuming extern returning int
+C:\Users\Audrey\source\repos\CChpt2\CChpt2\main.c(9,14): warning C4013: 'rand' undefined; assuming extern returning int
+  CChpt2.vcxproj -> C:\Users\Audrey\source\repos\CChpt2\Debug\CChpt2.exe
